@@ -1,5 +1,6 @@
-# CSSE3010
-The follow code base contains all the Source Code for the CSSE3010 course at the University of Queensland.
+# Atmel-Projects
+The follow code base contains all the source code for an embedded systems course at the University of Queensland.
+
 ## mylib
 The mylib directory contains all the source code written by the student (me). 
 
