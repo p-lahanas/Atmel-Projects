@@ -1,4 +1,4 @@
-# Atmel-Projects
+# STM-Projects
 The follow code base contains all the source code for an embedded systems course at the University of Queensland.
 
 ## mylib
